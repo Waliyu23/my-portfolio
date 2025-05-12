@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Moon, Sun, Mail, Menu, X, ArrowDown, ExternalLink, Briefcase, Code, Server, Database, Brain, Award, User, Calendar, MapPin, Globe, Download, Layers, Monitor, Cpu, Instagram, Linkedin, Twitter } from 'lucide-react';
+import { Moon, Sun, Mail, Menu, X, ArrowDown, ExternalLink, Code, Database, Brain, Award, Calendar, MapPin, Globe, Download, Layers, Monitor, Cpu, Instagram, Linkedin, Twitter } from 'lucide-react';
 import husseinImage from './img/hussein.png';
 // Import images with JavaScript require to handle spaces in filenames
 const ecommerceImage = require('./img/E-Commerce Platform.avif');
