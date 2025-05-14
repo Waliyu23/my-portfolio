@@ -1217,7 +1217,7 @@ const Portfolio = () => {
                         <h3 className="text-lg md:text-xl font-semibold">WordPress Developer</h3>
                         <span className="text-sm bg-emerald-100 dark:bg-emerald-900/30 text-emerald-800 dark:text-emerald-100 px-2 py-1 rounded">3 years</span>
                       </div>
-                      <p className="text-gray-600 dark:text-gray-300 mb-2">Self-employed</p>
+                      <p className="text-gray-600 dark:text-gray-300 mb-2">Freelancer</p>
                       <ul className="list-disc list-inside space-y-1 text-gray-700 dark:text-gray-300 text-sm md:text-base">
                         <li>Designed and developed responsive websites for clients</li>
                         <li>Utilized Elementor to create custom layouts</li>
